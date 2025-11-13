@@ -31,6 +31,10 @@ Here are some curated NPTEL courses you can get started with (Checked syllabus m
 
 
 ##### Resources from IIT Bombay
-A) Prof Ajit’s PPTs on Probability (check if you know all this before starting ML) : https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/ (Google CS215 to find past assignments and solve them)
+A) Prof. Ajit Rajawade’s PPTs on Probability (check if you know all this before starting ML) : https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/ (Google CS215 to find past assignments and solve them)
+
 B) Prof Shivram's Video lectures on Reinforcement Learning: https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2020/index.html (Solve exercises and programming assignments for max benefit)
+
 C) CDEEP Video lectures (not free) https://www.cdeep.iitb.ac.in/ 
+
+D) CS 725 Foundations of Machine Learning video lectures by Prof. Ganesh Ramakrishnan (unlisted playlist) https://www.youtube.com/playlist?list=PLyo3HAXSZD3zfv9O-y9DJhvrWQPscqATa 
