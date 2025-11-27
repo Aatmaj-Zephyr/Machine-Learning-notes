@@ -38,3 +38,8 @@ B) Prof Shivram's Video lectures on Reinforcement Learning: https://www.cse.iitb
 C) CDEEP Video lectures (not free) https://www.cdeep.iitb.ac.in/ 
 
 D) CS 725 Foundations of Machine Learning video lectures by Prof. Ganesh Ramakrishnan (unlisted playlist) https://www.youtube.com/playlist?list=PLyo3HAXSZD3zfv9O-y9DJhvrWQPscqATa 
+
+E) Blogs on deep learning for vision by IITB students https://docs.google.com/spreadsheets/d/18RZd-jI7O2oRqMoFI45dgY7pD7RPjVMXFUOrq9jwz4M/edit?gid=0#gid=0
+
+F) ML & DL playlists SHALA https://www.youtube.com/@SHALA-ji8us/playlists https://shala2020.github.io/ 
+
